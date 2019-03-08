@@ -1,7 +1,7 @@
 # Hide Jupyter Notebook Cells Individually 
 
 
-This custom.js script allows you to hide cells (Input Only) of a Jupyter Notebook based on a tag given to the cell without installing any packages or extensions! This uses a simple javascript script to hide desired cells. 
+This custom.js script allows you to hide cells (Input Only) of a Jupyter Notebook based on a tag given to the cell without installing any packages or extensions! This was created to hide the code cell portion of a Jupyter Widget while keeping the output portion for interactivity. 
 
 
 ## Setup 
