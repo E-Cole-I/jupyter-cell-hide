@@ -13,10 +13,14 @@ This custom.js script allows you to hide cells (Input Only) of a Jupyter Noteboo
 
 **Tag Your Code Cells** 
 * Open a Jupyter Notebook
-
+<br>
 ![Celltoolbar](view.png)
+<br>
+
 * Click on View in the Top Toolbar, then Click on Cell Toolbar (Image), then choose Tags in the next window.
+<br>
 ![Tags](tag.png)
+<br>
 * In the blank cell, add **hidecode** unless you altered the script. Click Add Tag for it to be added.
 Reload your Jupyter Notebook and the Inputs of cells 
 
